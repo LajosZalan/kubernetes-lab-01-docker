@@ -4,7 +4,7 @@ In Lab 1 you pick a programming language and framework of your choice, then buil
 
 The goal isn't to write a large application. It's to get comfortable packaging and running a service in a container, and to understand the moving parts around it: images, containers, ports, and volumes.
 
-I have pushed this image at the following URL: ... (complete here).
+I have pushed this image at the following URL: [Docker Hub](https://hub.docker.com/layers/lajoszalan/lab1/latest/images/sha256%3A402171df330e4455e4fcbb3634bf903df80d5eea97d0d1bdafda0f6710c9490c?uuid=38DB1B10-91AA-4EBF-BE1E-5231C300AFD0).
 
 ---
 
